@@ -1,6 +1,4 @@
 # GoogleSheetDownloader
-
-   Google Sheet 需儲存為指定的格式 
     
    ---------------------------------------------
    ID    | Name     | Desc
